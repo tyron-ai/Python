@@ -1,5 +1,4 @@
-# Program to convert an amount of minutes into an equivalent amount 
-# of days, hours and minutes.
+# Program to convert an amount of minutes into an equivalent amount of days, hours and minutes.
 
 input_str = input("Enter a quantity of minutes: ")
 minutes = int(input_str)
